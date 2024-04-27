@@ -149,3 +149,50 @@ cd socialLoginProject
 pm2 log 0
 ps -ef
 ls
+tail -f nohup.out
+ls
+vi 2024-4-27-bithumb-orderbook.csv
+vi ETH_KRW.py
+ps -ef
+kill 109091
+ls
+ㅣ
+ㄴls
+ls
+kill 109091
+ps -ef
+vi 2024-4-27-bithumb-orderbook.csv
+rm ETC_KRW.py
+ls
+rm ETH_KRW.py
+vi ETH_KRW.py
+nohup python3 ETH_KRW.py &
+ls
+vi BTC_KRW.py
+rm BTC_KRW.py
+kill 109495
+ls
+rm nohup python3 ETH_KRW.py
+ls
+rm '2024-4-27-bithumb-orderbook(BTC).csv'
+ls
+vi BTC_KRW.py
+vi ETC_KRW.py
+nohup python3 ETC_KRW.py &
+nohup python3 BTC_KRW.py &
+ls
+kill 109506
+kill 109507
+ls
+ps -ef
+ls
+rm '2024-4-27-bithumb-orderbook(BTC).csv'
+rm '2024-4-27-bithumb-orderbook(ETH).csv'
+ls
+nohup python3 BTC_KRW.py &
+nohup python3 ETC_KRW.py &
+ls
+cd '2024-4-27-bithumb-orderbook(BTC).csv'
+ls
+vi '2024-4-27-bithumb-orderbook(BTC).csv'
+vi '2024-4-27-bithumb-orderbook(ETH).csv'

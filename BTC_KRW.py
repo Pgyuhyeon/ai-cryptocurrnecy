@@ -44,14 +44,14 @@ while(1):
     print ("\n")
 
 
-    fn = "./" + str(start_time.year) + "-" + str(start_time.month) + "-" + str(start_time.day) + "-bithumb-orderbook.csv"
+    fn = "./" + str(start_time.year) + "-" + str(start_time.month) + "-" + str(start_time.day) + "-bithumb-orderbook(BTC).csv"
 
 
     should_write_header = os.path.exists(fn)
     if should_write_header == False:
-         asks.to_csv("./" + str(start_time.year) + "-" + str(start_time.month) + "-" + str(start_time.day) + "-bithumb-orderbook.csv", index=False, header=True, mode = 'a', sep = '|')
+         asks.to_csv("./" + str(start_time.year) + "-" + str(start_time.month) + "-" + str(start_time.day) + "-bithumb-orderbook(BTC).csv", index=False, header=True, mode = 'a', sep = '|')
     else:
-         asks.to_csv("./" + str(start_time.year) + "-" + str(start_time.month) + "-" + str(start_time.day) + "-bithumb-orderbook.csv", index=False, header=False, mode = 'a', sep = '|')
+         asks.to_csv("./" + str(start_time.year) + "-" + str(start_time.month) + "-" + str(start_time.day) + "-bithumb-orderbook(BTC).csv", index=False, header=False, mode = 'a', sep = '|')
 
 
     end_time = datetime.datetime.now()

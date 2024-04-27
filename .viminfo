@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1714233224,,"q"
+|2,0,1714237414,,"q"
 :wq
-|2,0,1714232150,,"wq"
+|2,0,1714236431,,"wq"
 :wq!
 |2,0,1712045461,,"wq!"
 :q!
@@ -34,263 +34,285 @@
 |3,1,36,0,1,0,1711359674,"#"
 
 # File marks:
-'0  53831  36  ~/2024-4-27-bithumb-orderbook.csv
-|4,48,53831,36,1714233224,"~/2024-4-27-bithumb-orderbook.csv"
-'1  61  37  ~/ETH_KRW.py
-|4,49,61,37,1714232150,"~/ETH_KRW.py"
-'2  61  37  ~/BTC_KRW.py
-|4,50,61,37,1714232132,"~/BTC_KRW.py"
-'3  54661  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,51,54661,0,1714232066,"~/2024-4-27-bithumb-orderbook.csv"
-'4  54661  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,52,54661,0,1714232066,"~/2024-4-27-bithumb-orderbook.csv"
-'5  54596  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,53,54596,0,1714232001,"~/2024-4-27-bithumb-orderbook.csv"
-'6  54596  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,54,54596,0,1714232001,"~/2024-4-27-bithumb-orderbook.csv"
-'7  54596  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,55,54596,0,1714232001,"~/2024-4-27-bithumb-orderbook.csv"
-'8  54596  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,56,54596,0,1714232001,"~/2024-4-27-bithumb-orderbook.csv"
-'9  54486  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,57,54486,0,1714231938,"~/2024-4-27-bithumb-orderbook.csv"
+'0  76  0  ~/2024-4-27-bithumb-orderbook(ETH).csv
+|4,48,76,0,1714237414,"~/2024-4-27-bithumb-orderbook(ETH).csv"
+'1  76  0  ~/2024-4-27-bithumb-orderbook(BTC).csv
+|4,49,76,0,1714237396,"~/2024-4-27-bithumb-orderbook(BTC).csv"
+'2  61  48  ~/ETC_KRW.py
+|4,50,61,48,1714236431,"~/ETC_KRW.py"
+'3  69  2  ~/BTC_KRW.py
+|4,51,69,2,1714236399,"~/BTC_KRW.py"
+'4  61  37  ~/BTC_KRW.py
+|4,52,61,37,1714236253,"~/BTC_KRW.py"
+'5  61  37  ~/BTC_KRW.py
+|4,53,61,37,1714236253,"~/BTC_KRW.py"
+'6  69  2  ~/ETH_KRW.py
+|4,54,69,2,1714236199,"~/ETH_KRW.py"
+'7  55206  32  ~/2024-4-27-bithumb-orderbook.csv
+|4,55,55206,32,1714236134,"~/2024-4-27-bithumb-orderbook.csv"
+'8  55206  32  ~/2024-4-27-bithumb-orderbook.csv
+|4,56,55206,32,1714236127,"~/2024-4-27-bithumb-orderbook.csv"
+'9  52  0  ~/ETH_KRW.py
+|4,57,52,0,1714235994,"~/ETH_KRW.py"
 
 # Jumplist (newest first):
--'  53831  36  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,53831,36,1714233224,"~/2024-4-27-bithumb-orderbook.csv"
--'  54661  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54661,0,1714232895,"~/2024-4-27-bithumb-orderbook.csv"
--'  61  37  ~/ETH_KRW.py
-|4,39,61,37,1714232150,"~/ETH_KRW.py"
--'  61  37  ~/ETH_KRW.py
-|4,39,61,37,1714232150,"~/ETH_KRW.py"
+-'  76  0  ~/2024-4-27-bithumb-orderbook(ETH).csv
+|4,39,76,0,1714237414,"~/2024-4-27-bithumb-orderbook(ETH).csv"
+-'  1  0  ~/2024-4-27-bithumb-orderbook(ETH).csv
+|4,39,1,0,1714237404,"~/2024-4-27-bithumb-orderbook(ETH).csv"
+-'  76  0  ~/2024-4-27-bithumb-orderbook(BTC).csv
+|4,39,76,0,1714237396,"~/2024-4-27-bithumb-orderbook(BTC).csv"
+-'  76  0  ~/2024-4-27-bithumb-orderbook(BTC).csv
+|4,39,76,0,1714237396,"~/2024-4-27-bithumb-orderbook(BTC).csv"
+-'  1  0  ~/2024-4-27-bithumb-orderbook(BTC).csv
+|4,39,1,0,1714237383,"~/2024-4-27-bithumb-orderbook(BTC).csv"
+-'  1  0  ~/2024-4-27-bithumb-orderbook(BTC).csv
+|4,39,1,0,1714237383,"~/2024-4-27-bithumb-orderbook(BTC).csv"
+-'  61  48  ~/ETC_KRW.py
+|4,39,61,48,1714236431,"~/ETC_KRW.py"
+-'  61  48  ~/ETC_KRW.py
+|4,39,61,48,1714236431,"~/ETC_KRW.py"
+-'  61  48  ~/ETC_KRW.py
+|4,39,61,48,1714236431,"~/ETC_KRW.py"
+-'  61  48  ~/ETC_KRW.py
+|4,39,61,48,1714236431,"~/ETC_KRW.py"
+-'  1  0  ~/ETC_KRW.py
+|4,39,1,0,1714236405,"~/ETC_KRW.py"
+-'  1  0  ~/ETC_KRW.py
+|4,39,1,0,1714236405,"~/ETC_KRW.py"
+-'  1  0  ~/ETC_KRW.py
+|4,39,1,0,1714236405,"~/ETC_KRW.py"
+-'  1  0  ~/ETC_KRW.py
+|4,39,1,0,1714236405,"~/ETC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
 -'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714232139,"~/ETH_KRW.py"
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
 -'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714232139,"~/ETH_KRW.py"
--'  61  37  ~/BTC_KRW.py
-|4,39,61,37,1714232132,"~/BTC_KRW.py"
--'  61  37  ~/BTC_KRW.py
-|4,39,61,37,1714232132,"~/BTC_KRW.py"
--'  61  37  ~/BTC_KRW.py
-|4,39,61,37,1714232132,"~/BTC_KRW.py"
--'  61  37  ~/BTC_KRW.py
-|4,39,61,37,1714232132,"~/BTC_KRW.py"
--'  69  2  ~/BTC_KRW.py
-|4,39,69,2,1714232117,"~/BTC_KRW.py"
--'  69  2  ~/BTC_KRW.py
-|4,39,69,2,1714232117,"~/BTC_KRW.py"
--'  69  2  ~/BTC_KRW.py
-|4,39,69,2,1714232117,"~/BTC_KRW.py"
--'  69  2  ~/BTC_KRW.py
-|4,39,69,2,1714232117,"~/BTC_KRW.py"
--'  54661  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54661,0,1714232066,"~/2024-4-27-bithumb-orderbook.csv"
--'  54661  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54661,0,1714232066,"~/2024-4-27-bithumb-orderbook.csv"
--'  54661  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54661,0,1714232066,"~/2024-4-27-bithumb-orderbook.csv"
--'  54661  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54661,0,1714232066,"~/2024-4-27-bithumb-orderbook.csv"
--'  54596  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54596,0,1714232056,"~/2024-4-27-bithumb-orderbook.csv"
--'  54596  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54596,0,1714232056,"~/2024-4-27-bithumb-orderbook.csv"
--'  54596  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54596,0,1714232056,"~/2024-4-27-bithumb-orderbook.csv"
--'  54596  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54596,0,1714232056,"~/2024-4-27-bithumb-orderbook.csv"
--'  54596  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54596,0,1714232056,"~/2024-4-27-bithumb-orderbook.csv"
--'  54596  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54596,0,1714232001,"~/2024-4-27-bithumb-orderbook.csv"
--'  54596  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54596,0,1714232001,"~/2024-4-27-bithumb-orderbook.csv"
--'  54596  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54596,0,1714232001,"~/2024-4-27-bithumb-orderbook.csv"
--'  54596  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54596,0,1714232001,"~/2024-4-27-bithumb-orderbook.csv"
--'  54486  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54486,0,1714231988,"~/2024-4-27-bithumb-orderbook.csv"
--'  54486  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54486,0,1714231988,"~/2024-4-27-bithumb-orderbook.csv"
--'  54486  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54486,0,1714231988,"~/2024-4-27-bithumb-orderbook.csv"
--'  54486  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54486,0,1714231988,"~/2024-4-27-bithumb-orderbook.csv"
--'  54486  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54486,0,1714231988,"~/2024-4-27-bithumb-orderbook.csv"
--'  54486  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54486,0,1714231988,"~/2024-4-27-bithumb-orderbook.csv"
--'  54486  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54486,0,1714231988,"~/2024-4-27-bithumb-orderbook.csv"
--'  54486  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54486,0,1714231988,"~/2024-4-27-bithumb-orderbook.csv"
--'  54486  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54486,0,1714231988,"~/2024-4-27-bithumb-orderbook.csv"
--'  54486  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54486,0,1714231938,"~/2024-4-27-bithumb-orderbook.csv"
--'  54486  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54486,0,1714231938,"~/2024-4-27-bithumb-orderbook.csv"
--'  54486  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54486,0,1714231938,"~/2024-4-27-bithumb-orderbook.csv"
--'  54486  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54486,0,1714231938,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231871,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231871,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231871,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231871,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231871,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231871,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231871,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231871,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231871,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231871,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231871,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231871,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231871,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231865,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231865,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231865,"~/2024-4-27-bithumb-orderbook.csv"
--'  54471  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54471,0,1714231865,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231856,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231776,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231776,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231776,"~/2024-4-27-bithumb-orderbook.csv"
--'  54381  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54381,0,1714231776,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231766,"~/2024-4-27-bithumb-orderbook.csv"
--'  54346  0  ~/2024-4-27-bithumb-orderbook.csv
-|4,39,54346,0,1714231762,"~/2024-4-27-bithumb-orderbook.csv"
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  69  2  ~/ETH_KRW.py
+|4,39,69,2,1714236199,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
+-'  1  0  ~/ETH_KRW.py
+|4,39,1,0,1714236192,"~/ETH_KRW.py"
 
 # History of marks within files (newest to oldest):
 
-> ~/2024-4-27-bithumb-orderbook.csv
-	*	1714233222	0
-	"	53831	36
+> ~/2024-4-27-bithumb-orderbook(ETH).csv
+	*	1714237413	0
+	"	76	0
 
-> ~/ETH_KRW.py
-	*	1714232149	0
-	"	61	37
-	^	61	38
-	.	61	37
-	+	69	2
-	+	61	37
+> ~/2024-4-27-bithumb-orderbook(BTC).csv
+	*	1714237394	0
+	"	76	0
+
+> ~/ETC_KRW.py
+	*	1714236425	0
+	"	61	48
+	^	61	49
+	.	61	48
+	+	61	48
 
 > ~/BTC_KRW.py
-	*	1714232131	0
-	"	61	37
-	^	61	38
-	.	61	37
+	*	1714236397	0
+	"	69	2
+	^	69	3
+	.	69	2
 	+	69	2
 	+	61	37
+	+	69	2
+
+> ~/ETH_KRW.py
+	*	1714236198	0
+	"	69	2
+	^	69	3
+	.	69	2
+	+	69	2
+	+	61	37
+	+	69	2
+
+> ~/2024-4-27-bithumb-orderbook.csv
+	*	1714236132	0
+	"	55206	32
+
+> ~/test.py
+	*	1714235245	0
+	"	67	0
+	^	67	0
+	.	68	0
+	+	59	2
+	+	66	2
+	+	67	0
+	+	68	0
+
+> ~/nohup.out
+	*	1714235083	0
+	"	12728	0
 
 > ~/2024-4-26-bithumb-orderbook.csv
 	*	1714200110	0
 	"	1	0
-
-> ~/test.py
-	*	1714145385	0
-	"	69	2
-	^	69	3
-	.	69	2
-	+	59	2
-	+	66	2
-	+	69	2
 
 > ~/2022-05-18-bithumb-orderbook.csv
 	*	1714141619	0
