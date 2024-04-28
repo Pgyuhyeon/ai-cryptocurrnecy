@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1714237414,,"q"
+|2,0,1714238257,,"q"
 :wq
 |2,0,1714236431,,"wq"
 :wq!
@@ -34,36 +34,50 @@
 |3,1,36,0,1,0,1711359674,"#"
 
 # File marks:
-'0  76  0  ~/2024-4-27-bithumb-orderbook(ETH).csv
-|4,48,76,0,1714237414,"~/2024-4-27-bithumb-orderbook(ETH).csv"
-'1  76  0  ~/2024-4-27-bithumb-orderbook(BTC).csv
-|4,49,76,0,1714237396,"~/2024-4-27-bithumb-orderbook(BTC).csv"
-'2  61  48  ~/ETC_KRW.py
-|4,50,61,48,1714236431,"~/ETC_KRW.py"
-'3  69  2  ~/BTC_KRW.py
-|4,51,69,2,1714236399,"~/BTC_KRW.py"
-'4  61  37  ~/BTC_KRW.py
-|4,52,61,37,1714236253,"~/BTC_KRW.py"
+'0  1  0  ~/ai-cryptocurrency
+|4,48,1,0,1714238257,"~/ai-cryptocurrency"
+'1  76  0  ~/2024-4-27-bithumb-orderbook(ETH).csv
+|4,49,76,0,1714237414,"~/2024-4-27-bithumb-orderbook(ETH).csv"
+'2  76  0  ~/2024-4-27-bithumb-orderbook(BTC).csv
+|4,50,76,0,1714237396,"~/2024-4-27-bithumb-orderbook(BTC).csv"
+'3  61  48  ~/ETC_KRW.py
+|4,51,61,48,1714236431,"~/ETC_KRW.py"
+'4  69  2  ~/BTC_KRW.py
+|4,52,69,2,1714236399,"~/BTC_KRW.py"
 '5  61  37  ~/BTC_KRW.py
 |4,53,61,37,1714236253,"~/BTC_KRW.py"
-'6  69  2  ~/ETH_KRW.py
-|4,54,69,2,1714236199,"~/ETH_KRW.py"
-'7  55206  32  ~/2024-4-27-bithumb-orderbook.csv
-|4,55,55206,32,1714236134,"~/2024-4-27-bithumb-orderbook.csv"
+'6  61  37  ~/BTC_KRW.py
+|4,54,61,37,1714236253,"~/BTC_KRW.py"
+'7  69  2  ~/ETH_KRW.py
+|4,55,69,2,1714236199,"~/ETH_KRW.py"
 '8  55206  32  ~/2024-4-27-bithumb-orderbook.csv
-|4,56,55206,32,1714236127,"~/2024-4-27-bithumb-orderbook.csv"
-'9  52  0  ~/ETH_KRW.py
-|4,57,52,0,1714235994,"~/ETH_KRW.py"
+|4,56,55206,32,1714236134,"~/2024-4-27-bithumb-orderbook.csv"
+'9  55206  32  ~/2024-4-27-bithumb-orderbook.csv
+|4,57,55206,32,1714236127,"~/2024-4-27-bithumb-orderbook.csv"
 
 # Jumplist (newest first):
+-'  1  0  ~/ai-cryptocurrency
+|4,39,1,0,1714238257,"~/ai-cryptocurrency"
 -'  76  0  ~/2024-4-27-bithumb-orderbook(ETH).csv
 |4,39,76,0,1714237414,"~/2024-4-27-bithumb-orderbook(ETH).csv"
+-'  76  0  ~/2024-4-27-bithumb-orderbook(ETH).csv
+|4,39,76,0,1714237414,"~/2024-4-27-bithumb-orderbook(ETH).csv"
+-'  1  0  ~/2024-4-27-bithumb-orderbook(ETH).csv
+|4,39,1,0,1714237404,"~/2024-4-27-bithumb-orderbook(ETH).csv"
 -'  1  0  ~/2024-4-27-bithumb-orderbook(ETH).csv
 |4,39,1,0,1714237404,"~/2024-4-27-bithumb-orderbook(ETH).csv"
 -'  76  0  ~/2024-4-27-bithumb-orderbook(BTC).csv
 |4,39,76,0,1714237396,"~/2024-4-27-bithumb-orderbook(BTC).csv"
 -'  76  0  ~/2024-4-27-bithumb-orderbook(BTC).csv
 |4,39,76,0,1714237396,"~/2024-4-27-bithumb-orderbook(BTC).csv"
+-'  76  0  ~/2024-4-27-bithumb-orderbook(BTC).csv
+|4,39,76,0,1714237396,"~/2024-4-27-bithumb-orderbook(BTC).csv"
+-'  76  0  ~/2024-4-27-bithumb-orderbook(BTC).csv
+|4,39,76,0,1714237396,"~/2024-4-27-bithumb-orderbook(BTC).csv"
+-'  1  0  ~/2024-4-27-bithumb-orderbook(BTC).csv
+|4,39,1,0,1714237383,"~/2024-4-27-bithumb-orderbook(BTC).csv"
+-'  1  0  ~/2024-4-27-bithumb-orderbook(BTC).csv
+|4,39,1,0,1714237383,"~/2024-4-27-bithumb-orderbook(BTC).csv"
 -'  1  0  ~/2024-4-27-bithumb-orderbook(BTC).csv
 |4,39,1,0,1714237383,"~/2024-4-27-bithumb-orderbook(BTC).csv"
 -'  1  0  ~/2024-4-27-bithumb-orderbook(BTC).csv
@@ -76,6 +90,22 @@
 |4,39,61,48,1714236431,"~/ETC_KRW.py"
 -'  61  48  ~/ETC_KRW.py
 |4,39,61,48,1714236431,"~/ETC_KRW.py"
+-'  61  48  ~/ETC_KRW.py
+|4,39,61,48,1714236431,"~/ETC_KRW.py"
+-'  61  48  ~/ETC_KRW.py
+|4,39,61,48,1714236431,"~/ETC_KRW.py"
+-'  61  48  ~/ETC_KRW.py
+|4,39,61,48,1714236431,"~/ETC_KRW.py"
+-'  61  48  ~/ETC_KRW.py
+|4,39,61,48,1714236431,"~/ETC_KRW.py"
+-'  1  0  ~/ETC_KRW.py
+|4,39,1,0,1714236405,"~/ETC_KRW.py"
+-'  1  0  ~/ETC_KRW.py
+|4,39,1,0,1714236405,"~/ETC_KRW.py"
+-'  1  0  ~/ETC_KRW.py
+|4,39,1,0,1714236405,"~/ETC_KRW.py"
+-'  1  0  ~/ETC_KRW.py
+|4,39,1,0,1714236405,"~/ETC_KRW.py"
 -'  1  0  ~/ETC_KRW.py
 |4,39,1,0,1714236405,"~/ETC_KRW.py"
 -'  1  0  ~/ETC_KRW.py
@@ -100,6 +130,38 @@
 |4,39,69,2,1714236399,"~/BTC_KRW.py"
 -'  69  2  ~/BTC_KRW.py
 |4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  69  2  ~/BTC_KRW.py
+|4,39,69,2,1714236399,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
+-'  1  0  ~/BTC_KRW.py
+|4,39,1,0,1714236392,"~/BTC_KRW.py"
 -'  1  0  ~/BTC_KRW.py
 |4,39,1,0,1714236392,"~/BTC_KRW.py"
 -'  1  0  ~/BTC_KRW.py
@@ -148,6 +210,38 @@
 |4,39,61,37,1714236253,"~/BTC_KRW.py"
 -'  61  37  ~/BTC_KRW.py
 |4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
+-'  61  37  ~/BTC_KRW.py
+|4,39,61,37,1714236253,"~/BTC_KRW.py"
 -'  69  2  ~/ETH_KRW.py
 |4,39,69,2,1714236199,"~/ETH_KRW.py"
 -'  69  2  ~/ETH_KRW.py
@@ -162,102 +256,12 @@
 |4,39,69,2,1714236199,"~/ETH_KRW.py"
 -'  69  2  ~/ETH_KRW.py
 |4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  69  2  ~/ETH_KRW.py
-|4,39,69,2,1714236199,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
--'  1  0  ~/ETH_KRW.py
-|4,39,1,0,1714236192,"~/ETH_KRW.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/ai-cryptocurrency
+	*	1714238252	0
+	"	1	0
 
 > ~/2024-4-27-bithumb-orderbook(ETH).csv
 	*	1714237413	0

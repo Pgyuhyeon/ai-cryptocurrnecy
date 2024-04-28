@@ -196,3 +196,22 @@ cd '2024-4-27-bithumb-orderbook(BTC).csv'
 ls
 vi '2024-4-27-bithumb-orderbook(BTC).csv'
 vi '2024-4-27-bithumb-orderbook(ETH).csv'
+ls
+git status
+.git
+git clone https://github.com/Pgyuhyeon/ai-cryptocurrnecy.git
+git add.
+git add .
+git commit -m "btc"
+git push origin main
+git push -u origin main
+ls
+cd ai-cryptocurrency
+vi ai-cryptocurrency
+cd ai-cryptocurrency
+os -ef
+ps -ef
+ls
+ps -ef
+ls
+exit;
